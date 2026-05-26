@@ -127,22 +127,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-### Dashboard Home
-
-![Dashboard](screenshots/dashboard_home.png)
-
-### Top Gainers
-
-![Top Gainers](screenshots/top_gainers.png)
-
-### Price Comparison
-
-![Price Chart](screenshots/price_chart.png)
-
----
-
 ## 📈 Future Improvements
 
 - Historical price trends
